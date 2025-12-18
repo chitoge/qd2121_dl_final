@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+  <configSections>
+    <section name="AppSettings" type="System.Configuration.ConfigurationSectionSectionHandler, System.Configuration" />
+  </configSections>
+  <appSettings>
+    <section name="AppSettings" type="System.Configuration.ConfigurationSectionSectionHandler, System.Configuration" />
+  </appSettings>
+</configuration>

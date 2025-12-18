@@ -1,0 +1,27 @@
+<xs:schema ...> 
+  <xs:element name="Root" ...>
+    <xs:element name="Document" ...>
+      <xs:element name="Title" ...>
+        <xs:complexType>
+          <xs:attribute name="id" ...>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="Author" ...>
+        <xs:complexType>
+          <xs:attribute name="id" ...>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="Date" ...>
+        <xs:complexType>
+          <xs:attribute name="id" ...>
+        </xs:complexType>
+      </xs:element>
+    </xs:element>
+  </xs:schema>
+</xs:document>
+
+</xs:document>
+
+</xs:document>
+
+</xs:document>

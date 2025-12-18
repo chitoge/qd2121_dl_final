@@ -1,0 +1,3 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://xstest-tns/schema11_D4_3_15"
+           elementFormDefault="qualified"><xs:element name="root"><xs:complexType><xs:sequence><xs:element ref="default_element" name="default_key" type="xs:string" default="true" maxOccurs="unbounded"/></xs:sequence><xs:attribute ref="root_attr"/></xs:complexType></xs:element><xs:element name="default_element" type="xs:string" default="false" maxOccurs="unbounded"/><xs:attribute name="root_attr" type="xs:string"/></xs:schema>

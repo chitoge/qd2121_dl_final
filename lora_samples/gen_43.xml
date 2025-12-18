@@ -1,0 +1,1 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"><xs:element name="root" type="xs:duration" /><xs:complexType name="baseType"><xs:simpleContent><xs:extension base="xs:decimal"><xs:attribute name="attr" type="xs:integer" /><xs:assert test="@attr"/></xs:extension></xs:simpleContent></xs:complexType><xs:element name="root" type="baseType" /></xs:schema>

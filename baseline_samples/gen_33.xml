@@ -1,0 +1,1 @@
+<xs:schema target="xs:integer" targetValue="0" min="0" max="1000000000" />

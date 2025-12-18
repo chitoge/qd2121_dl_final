@@ -1,0 +1,6 @@
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns="http://ns.example.com" ...>
+<ns:member name="group">
+  <ns:member name="members" type="ns:member" />
+</ns:member>
+
+</xs:schema>

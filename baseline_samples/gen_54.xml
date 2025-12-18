@@ -1,0 +1,15 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <appSettings>
+    <setting name="log4j2" value="log4j2.xml" />
+  </appSettings>
+  <appSettings>
+    <setting name="log4j2" value="log4j2.xml" />
+  </appSettings>
+  <appSettings>
+    <setting name="log4j2" value="log4j2.xml" />
+  </appSettings>
+  <appSettings>
+    <setting name="log4j2" value="log4j2.xml" />
+  </appSettings>
+</configuration>

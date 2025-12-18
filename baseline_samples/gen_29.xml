@@ -1,0 +1,9 @@
+<xs:schema ...>
+    <xs:complexType name="dataStructure">
+        <xs:sequence>
+            <xs:element name="value" type="xs:integer"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="type" type="xs:integer"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

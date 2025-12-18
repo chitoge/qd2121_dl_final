@@ -1,0 +1,10 @@
+<?xml version= "1.0" encoding= "UTF-8" ?>
+<configuration>
+  <section name="mySettings" type="System.Configuration.ConfigurationSectionSection">
+    <title>My Settings</title>
+    <description>Some settings for application</description>
+    <elements>
+      <element name="myKey" type="string" description="Key for my settings" />
+    </elements>
+  </section>
+</configuration>

@@ -1,0 +1,25 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<config xmlns="http://www.w3.org/2000/config">
+    <config>
+        <database>
+            <name>default</name>
+            <type>MySQL</type>
+            <user>root</user>
+            <password>password</password>
+            <host>localhost</host>
+            <database>mydb</database>
+            <charset>utf8</charset>
+            <autoIncrement>1</autoIncrement>
+        </database>
+        <database>
+            <name>test</name>
+            <type>MySQL</type>
+            <user>root</user>
+            <password>password</password>
+            <host>localhost</host>
+            <database>testdb</database>
+            <charset>utf8</charset>
+            <autoIncrement>1</autoIncrement>
+        </database>
+    </config>
+</config>

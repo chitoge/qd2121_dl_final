@@ -1,0 +1,19 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <configSections>
+    <define>
+      <type>System.Configuration.ConfigurationSection</type>
+    </define>
+    <define>
+      <type>System.Configuration.ConfigurationSectionSection</type>
+    </define>
+    <define>
+      <type>System.Configuration.ConfigurationSectionSectionType</type>
+    </define>
+    <define>
+      <type>System.Configuration.ConfigurationSectionSectionType</type>
+    </define>
+  </configSections>
+  <section name="configuration" type="System.Configuration.ConfigurationSectionSectionType, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF383266848D94"/>
+  <section name="configuration" type="System.Configuration.ConfigurationSectionSectionType, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF383266848D94"/>
+</configuration>

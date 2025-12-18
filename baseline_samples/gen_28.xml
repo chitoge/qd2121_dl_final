@@ -1,0 +1,11 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+  <configSections>
+    <section name="AppSettings" type="System.Configuration.ConfigurationSectionSection" />
+  </configSections>
+  <appSettings>
+    <section name="log4net" type="log4net.Configuration" />
+    <section name="application" type="log4net.Configuration" />
+    <section name="system" type="log4net.Configuration" />
+  </appSettings>
+</configuration>

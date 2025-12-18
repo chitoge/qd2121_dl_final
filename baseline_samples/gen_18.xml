@@ -1,0 +1,12 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <sections>
+    <section name="log4j2" type="log4j2.Log4j2Configuration" configuration="log4j2.xml">
+      <properties>
+        <property name="appenderName" value="Console"/>
+        <property name="level" value="DEBUG"/>
+        <property name="appenders" value="console"/>
+      </properties>
+    </section>
+  </sections>
+</configuration>

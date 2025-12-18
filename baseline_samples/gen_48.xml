@@ -1,0 +1,10 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<config xmlns="http://www.w3.org/2000/config">
+    <config>
+        <configEntry>
+            <id>some_id</id>
+            <name>some_name</name>
+            <value>some_value</value>
+        </configEntry>
+    </config>
+</config>

@@ -1,0 +1,8 @@
+<xs:schema ...>
+<import>
+<imported element name="element1" element type="element2" ...>
+<imported element name="element3" element type="element4" ...>
+</import>
+</import>
+</xs:schema>
+</body>

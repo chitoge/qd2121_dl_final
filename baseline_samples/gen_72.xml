@@ -1,0 +1,13 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <section name="appsettings" type="System.Configuration.ConfigurationSectionSection">
+    <attributes>
+      <attribute name="sectionName" value="appsettings" />
+    </attributes>
+  </section>
+  <section name="connectionStrings" type="System.Configuration.ConnectionStringSettingsSection">
+    <connectionStrings>
+      <add name="Database" value="YourDatabaseNameHere" />
+    </connectionStrings>
+  </section>
+</configuration>

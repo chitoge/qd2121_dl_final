@@ -1,0 +1,7 @@
+<xs:schema version="1.0" xmlns:xs="http://www.wxs.org/XMLSchema">
+  <xs:complexType name="dataStructure">
+    <xs:sequence>
+      <xs:element name="item" type="xs:integer" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

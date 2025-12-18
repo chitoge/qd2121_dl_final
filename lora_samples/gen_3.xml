@@ -1,0 +1,5 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="urn:z:o:etable"
+	xmlns:z="urn:z:o:etable"
+	elementFormDefault="unqualified"
+><xs:element name="z:table"><xs:complexType><xs:sequence><xs:element ref="z:row" maxOccurs="unbounded"/></xs:sequence><xs:attribute name="rows" type="z:listOfZIds"/><xs:attribute name="cols" type="z:listOfZIds"/></xs:complexType></xs:element><xs:element name="z:id" type="xs:ID"/><xs:simpleType name="z:listOfZIds"><xs:list itemType="z:z:id"/></xs:simpleType><xs:element name="z:id" type="z:id"/></xs:schema>

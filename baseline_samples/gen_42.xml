@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <sections>
+    <section name="main" type="application/xhtml+xml" />
+    <section name="style" type="text/css" />
+    <section name="script" type="text/javascript" />
+    <section name="data" type="text/html" />
+  </sections>
+</configuration>

@@ -1,0 +1,4 @@
+<?xml version=1.0 encoding="UTF-8"?><xsd:schema
+  xmlns="ElemDecl/name"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="ElemDecl/name"><xsd:element name="root"/><xsd:element ref="Global1"><xsd:unique name="UNIQ1"><xsd:selector xpath="."/><xsd:field xpath="."/></xsd:unique></xsd:element><xsd:element name="Global1"><xsd:complexType><xsd:sequence><xsd:element name="Global2" type="xsd:boolean"/></xsd:sequence></xsd:complexType></xsd:element></xsd:schema>

@@ -1,0 +1,5 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://xsdtesting"
+	xmlns:a="http://xsdtesting"
+	xmlns:b="http://xsdtesting"
+	elementFormDefault="unqualified"><xs:element name="x"><xs:complexType><xs:sequence><xs:element name="foo" type="xs:string"/><xs:element name="bar" type="xs:string" minOccurs="0"/><xs:element ref="b:bbar" minOccurs="0"/></xs:sequence></xs:complexType></xs:element><xs:element name="bbar" type="xs:string"/></xs:schema>

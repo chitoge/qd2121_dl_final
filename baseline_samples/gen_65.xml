@@ -1,0 +1,9 @@
+<xs:schema ...>
+  <xs:complexType name="item">
+    <xs:sequence>
+      <xs:element name="title" type="xs:string"/>
+      <xs:element name="description" type="xs:string"/>
+      <xs:element name="date" type="xs:date"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

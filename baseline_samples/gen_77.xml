@@ -1,0 +1,15 @@
+<xs:schema target="schema-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xs:element name="document" type="documentType"/>
+  <xs:element name="section" type="sectionType"/>
+  <xs:element name="page" type="pageType"/>
+  <xs:element name="title" type="titleType"/>
+  <xs:element name="content" type="contentType"/>
+  <xs:element name="footer" type="footerType"/>
+  <xs:element name="titleSection" type="titleSectionType"/>
+  <xs:element name="sectionSection" type="sectionSectionType"/>
+  <xs:element name="sectionSectionSection" type="sectionSectionSectionType"/>
+  <xs:element name="footerSection" type="footerSectionType"/>
+  <xs:element name="footerSectionSection" type="footerSectionSectionType"/>
+  <xs:element name="footerSectionSectionSection" type="footerSectionSectionSectionType"/>
+  <xs:element name="footerSectionSectionSectionSection" type="footerSectionSectionSectionSectionType"/>
+</xs:schema>

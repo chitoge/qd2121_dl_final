@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <configSections>
+    <section name="Default" type="System.Configuration.ConfigurationSectionSectionHandler, System.Configuration" />
+  </configSections>
+  <items>
+    <section name="Default" type="System.Configuration.ConfigurationSectionSectionHandler, System.Configuration" />
+  </items>
+</configuration>

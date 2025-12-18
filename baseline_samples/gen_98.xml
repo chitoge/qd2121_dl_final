@@ -1,0 +1,16 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<configuration>
+  <configSections>
+    <add key="data" type="System.Data.SqlClient.SqlConfig, System.Data.SqlClient" />
+  </configSections>
+  <locks>
+    <lock key="data" type="System.Data.SqlClient.SqlLock, System.Data.SqlClient" />
+  </locks>
+  <data>
+    <dataSources>
+      <dataSources>
+        <dataSource name="Default" />
+      </dataSources>
+    </dataSources>
+  </data>
+</configuration>

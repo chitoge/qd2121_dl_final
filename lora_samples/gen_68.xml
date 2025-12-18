@@ -1,0 +1,4 @@
+<?xml version=1.0 encoding="UTF-8"?><xsd:schema
+  xmlns="ElemDecl/name"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="ElemDecl/name"><xsd:element name="root" type="root"/><xsd:simpleType name="root"><xsd:restriction base="xsd:boolean"><xsd:pattern value="false"/></xsd:restriction></xsd:simpleType></xsd:schema>

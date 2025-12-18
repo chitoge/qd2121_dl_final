@@ -1,0 +1,7 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+  <configSections>
+    <define name="MyConfigSection" />
+  </configSections>
+  <section name="MyConfigSection" type="System.Configuration.ConfigurationSectionSectionDefinition, System.Configuration" />
+</configuration>

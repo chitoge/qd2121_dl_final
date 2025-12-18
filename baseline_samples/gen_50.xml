@@ -1,0 +1,11 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <section name="AppSettings" type="System.Configuration.ConfigurationSectionSection">
+    <description>App settings</description>
+    <title>AppSettings</title>
+    <extends>System.Configuration.ConfigurationSection</extends>
+    <items>
+      <add key="MyKey" value="Value"/>
+    </items>
+  </section>
+</configuration>

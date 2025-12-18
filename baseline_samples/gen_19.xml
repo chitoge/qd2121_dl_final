@@ -1,0 +1,6 @@
+<xs:schema version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-IncludeNamespace" xmlns="http://www.w3.org/2000/XMLSchema">
+  <xsi:include schema-type="http://www.w3.org/2001/XMLSchema-IncludeNamespace" ns="http://www.w3.org/2000/XMLSchema"/>
+  <xsi:include schema-type="http://www.w3.org/2001/XMLSchema-IncludeNamespace" ns="http://www.w3.org/2000/XMLSchema"/>
+  <xsi:include schema-type="http://www.w3.org/2001/XMLSchema-IncludeNamespace" ns="http://www.w3.org/2000/XMLSchema"/>
+  <xsi:include schema-type="http://www.w3.org/2001/XMLSchema-IncludeNamespace" ns="http://www.w3.org/2000/XMLSchema"/>
+</xs:schema>

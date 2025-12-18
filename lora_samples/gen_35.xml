@@ -1,0 +1,1 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"><xs:complexType name="base"><xs:sequence><xs:any namespace="##any" minOccurs="2" maxOccurs="3"/></xs:sequence></xs:complexType><xs:element name="foo" type="base" /></xs:schema>

@@ -1,0 +1,2 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><xs:element name="root" type="xs:duration" /><xs:complexType name="duration"><xs:complexContent><xs:extension base="xs:time"><xs:choice><xs:element name="y"/></xs:choice><xs:attribute ref="xsi:type" use="required"/></xs:extension></xs:complexContent></xs:complexType></xs:schema>

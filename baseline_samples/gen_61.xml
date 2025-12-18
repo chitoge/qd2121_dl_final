@@ -1,0 +1,10 @@
+<xs:schema ...>
+  <xs:complexType name="group">
+    <xs:attribute name="name" type="xs:string" />
+    <xs:attribute name="description" type="xs:string" />
+    <xs:sequence>
+      <xs:element name="item" type="item" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="group" ... />
+</xs:schema>

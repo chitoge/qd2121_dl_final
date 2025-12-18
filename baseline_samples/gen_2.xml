@@ -1,0 +1,21 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="config.xsd">
+    <database>
+        <name>example_db</name>
+        <type>MySQL</type>
+        <username>user</username>
+        <password>pass</password>
+        <host>localhost</host>
+        <port>3306</port>
+        <database>test_db</database>
+    </database>
+    <table>
+        <name>users</name>
+        <fields>
+            <field name="id" type="integer" />
+            <field name="name" type="string" />
+            <field name="email" type="string" />
+            <field name="password" type="string" />
+        </fields>
+    </table>
+</config>

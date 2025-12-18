@@ -1,0 +1,11 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<config xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xsi:schemaVersion>1.0</xsi:schemaVersion>
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="data" type="xs:integer"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xsi:element>
+</config>

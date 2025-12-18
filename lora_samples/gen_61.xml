@@ -1,0 +1,3 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://xstest-tns/schema11_D4_3_15"
+           elementFormDefault="qualified"><xs:element name="root"><xs:complexType><xs:sequence><xs:element ref="t" maxOccurs="unbounded"/></xs:sequence></xs:complexType></xs:element><xs:element name="t" type="xs:integer"/><xs:element name="t0" type="xs:integer" substitutionGroup="t"/></xs:schema>

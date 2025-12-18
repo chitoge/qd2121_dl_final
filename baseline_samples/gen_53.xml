@@ -1,0 +1,13 @@
+<xs:schema ...>
+  <xs:complexType name="root" ...>
+    <xs:complexContent ...>
+      <xs:sequence>
+        <xs:element name="name" type="xs:QName"/>
+        <xs:element name="type" type="xs:QName"/>
+        <xs:element name="content" type="xs:QName"/>
+        <xs:element name="uri" type="xs:QName"/>
+        <xs:element name="prefix" type="xs:QName"/>
+      </xs:sequence>
+    </xs:complexContent>
+  </xs:complexType>
+</xs:schema>

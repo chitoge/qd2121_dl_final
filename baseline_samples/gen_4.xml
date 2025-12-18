@@ -1,0 +1,13 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <appSettings>
+    <property name="baseAddress" value="http://localhost:8080"/>
+    <property name="serverPort" value="8080"/>
+    <property name="serverName" value="localhost"/>
+    <property name="log4j2" value="log4j2.xml"/>
+    <property name="log4j2.loggerName" value="com.example.log4j"/>
+    <property name="log4j2.rootLogger" value="INFO"/>
+    <property name="log4j2.rootLogger.level" value="INFO"/>
+    <property name="log4j2.xml" value="log4j2.xml"/>
+  </appSettings>
+</configuration>

@@ -1,0 +1,8 @@
+<xs:schema ...>
+<xs:complexType name="customElement">
+    <xs:sequence>
+        <xs:element name="data" type="xs:integer"/>
+    </xs:sequence>
+</xs:complexType>
+
+</xs:schema>

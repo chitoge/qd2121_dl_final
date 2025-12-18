@@ -1,0 +1,16 @@
+<xs:schema version="1.0" xmlns:xs="http://www.wxs.org/XMLSchema" xmlns:ns="http://ns.example.com">
+<xs:element name="data">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="item" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="value" type="xs:integer" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+
+</xs:schema>

@@ -1,0 +1,17 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <users>
+    <user>
+      <id>1</id>
+      <name>John Doe</name>
+      <email>john@example.com</email>
+      <roles>
+        <role>admin</role>
+        <role>user</role>
+      </roles>
+      <groups>
+        <group>group1</group>
+      </groups>
+    </user>
+  </users>
+</configuration>

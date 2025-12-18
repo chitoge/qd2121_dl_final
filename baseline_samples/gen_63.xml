@@ -1,0 +1,11 @@
+<xs:schema version="1.0" ...>
+  <xs:element name="root" ...>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="value" ...>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:schema>
+</xs:schema>
+
+</xs:schema>

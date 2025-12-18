@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <section name="web.config" />
+  <section name="appsettings.json" />
+  <section name="appsettings.hdl" />
+  <section name="appsettings.yaml" />
+  <section name="appsettings.json" />
+  <section name="appsettings" />
+</configuration>

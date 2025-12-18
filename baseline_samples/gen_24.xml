@@ -1,0 +1,5 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<import namespace="org.hibernate.orm2.annotations"
+       version="2.0.0"
+       path="org.hibernate.orm2.annotations.orm2_2_0_0.jar"
+       location="C:/path/to/your/hibernate/orm2_2_0_0.jar"/>

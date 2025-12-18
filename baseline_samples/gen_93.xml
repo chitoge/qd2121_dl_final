@@ -1,0 +1,23 @@
+<xs:schema ...>
+    <xs:element name="user" ...
+    <xs:complexType name="user" ...>
+        <xs:sequence>
+            <xs:element name="name" ...>
+            <xs:element name="email" ...>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="userList" ...>
+        <xs:complexType name="userList">
+            <xs:sequence>
+                <xs:element name="user" ...>
+            </xs:sequence>
+        </xs:complexType>
+</xs:schema>
+
+</xs:schema>
+
+</xs:schema>
+
+</xs:schema>
+
+</xs:schema>

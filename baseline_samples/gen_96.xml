@@ -1,0 +1,7 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <appSettings>
+    <setting name="AppSetting1" value="123" />
+    <setting name="AppSetting2" value="456" />
+  </appSettings>
+</configuration>

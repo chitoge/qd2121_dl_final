@@ -1,0 +1,3 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:myNS="http://www.my.new.com"
+    targetNamespace="http://www.my.new.com"><xs:element name="b" type="B" myNS:attr="test" myNS:pre="preTest"/></xs:schema>

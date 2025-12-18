@@ -1,0 +1,13 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<configuration>
+  <appSettings>
+    <appSetting name="databaseConnection">
+      <value>mysql://localhost:3306/mydatabase</value>
+      <type>mysql</type>
+      <properties>
+        <property name="username" value="root" />
+        <property name="password" value="password" />
+      </properties>
+    </appSetting>
+  </appSettings>
+</configuration>

@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<configuration>
+  <configSections>
+    <section name="web" type="System.Configuration.ConfigurationSectionSectionInfo, System.Configuration" />
+  </configSections>
+  <connectionStrings>
+    <add name="web" value="name=MyWebApp;integratedSecuritySource=SQLIntegratedSecurity;server=SQLEndpoint;database=MyDatabase;principalAuthenticationMode=Windows;userTrustLevel=Default" />
+  </connectionStrings>
+</configuration>

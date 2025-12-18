@@ -1,0 +1,16 @@
+<xs:schema version="2.0" element="document">
+<xs:element name="document">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="title" type="xs:NCName"/>
+<xs:element name="author" type="xs:NCName"/>
+<xs:element name="year" type="xs:NCName"/>
+<xs:element name="genre" type="xs:NCName"/>
+<xs:element name="publication" type="xs:NCName"/>
+<xs:element name="price" type="xs:NCName"/>
+<xs:element name="description" type="xs:NCName"/>
+<xs:element name="link" type="xs:NCName"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+  <users>
+    <user>
+      <name>admin</name>
+      <email>admin@example.com</email>
+      <password>password</password>
+      <enabled>true</enabled>
+    </user>
+  </users>
+</configuration>

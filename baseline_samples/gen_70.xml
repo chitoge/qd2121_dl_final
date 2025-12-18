@@ -1,0 +1,15 @@
+<?xml version=1.0 encoding=iso-8859-1 ?>
+<request xmlns="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0"
+        xs:annotation:required="true" xs:annotation:required="true" xs:annotation:required="true">
+  <request>
+    <type name="xs:complexType">
+      <complexContent>
+        <restriction>
+          <sequence>
+            <element name="value" type="xs:integer" />
+          </sequence>
+        </restriction>
+      </complexContent>
+    </type>
+  </request>
+</request>

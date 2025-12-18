@@ -1,0 +1,13 @@
+<?xml version=1.0?>
+<config xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xsl:output method="text" version="1.0" encoding="UTF-8"/>
+  <xsl:template match="/"> 
+    <root>
+      <title>My Site</title>
+      <body>
+        <h1>Welcome to My Site</h1>
+        <p>This is a sample page.</p>
+      </body>
+    </root>
+  </xsl:template>
+</config>

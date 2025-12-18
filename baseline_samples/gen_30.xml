@@ -1,0 +1,10 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+  <appSettings>
+    <setting name="appSettings" type="string" value="application.properties" />
+    <setting name="appSettings" type="string" value="application.properties" />
+    <setting name="appSettings" type="string" value="application.properties" />
+    <setting name="appSettings" type="string" value="application.properties" />
+    <setting name="appSettings" type="string" value="application.properties" />
+  </appSettings>
+</configuration>

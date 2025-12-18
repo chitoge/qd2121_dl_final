@@ -1,0 +1,15 @@
+<?xml version=1.0 encoding=iso-8859-1?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XML 1.0//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+  <title>My Website</title>
+  <style>
+    /* Add your CSS styles here */
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a sample website. Please visit me for more information.</p>
+</body>
+</html>

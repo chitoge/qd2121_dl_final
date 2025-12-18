@@ -1,0 +1,9 @@
+<xs:schema version="2.0" element="document">
+  <xs:element name="document" type="DocumentTypeDef" />
+  <xs:complexType name="DocumentTypeDef" group="http://www.w3.org/2000/XMLSchema"
+    xmlns="http://www.w3.org/2000/XMLSchema">
+    <xs:sequence>
+      <xs:element name="document" type="xs:document" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

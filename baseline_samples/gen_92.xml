@@ -1,0 +1,14 @@
+<?xml version=1.0?
+<xml version="1.0" encoding="UTF-8"?>
+<root>
+  <title>title</title>
+  <description>description</description>
+  <author>author</author>
+  <date>2010-01-01</date>
+  <tags>tag1, tag2, tag3</tags>
+  <image>
+    <source>source</source>
+    <title>image-title</title>
+    <url>image-url</url>
+  </image>
+</root>

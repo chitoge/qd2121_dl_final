@@ -1,0 +1,10 @@
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns="http://ns.xxxx.com">
+  <xs:element name="root" type="ns:RootElement"/>
+  <ns:RootElement>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="item" type="ns:Item"/>
+      </xs:sequence>
+    </xs:complexType>
+  </ns:RootElement>
+</xs:schema>

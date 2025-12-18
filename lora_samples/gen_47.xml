@@ -1,0 +1,2 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="ns" xmlns="ns"><xs:import namespace="http://www.w3.org/XML" schemaLocation="attgC.xsd"/><xs:complexType name="ct"><xs:attribute ref="a" default="foo"/><xs:anyAttribute namespace="##local"/></xs:complexType><xs:element name="root" type="ct"/></xs:schema>

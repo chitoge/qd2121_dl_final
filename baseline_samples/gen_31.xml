@@ -1,0 +1,7 @@
+<xs:schema ...>
+  <xs:complexType name="person" description="person">
+    <xs:attribute name="id" type="xs:integer" />
+    <xs:attribute name="name" type="xs:string" />
+    <xs:attribute name="age" type="xs:integer" />
+  </xs:complexType>
+</xs:schema>
