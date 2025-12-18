@@ -323,7 +323,7 @@ We compare:
 
 \subsection{Evaluation Protocol}
 
-We perform code coverage measurement on \texttt{python-xmlschema} by sampling 100 files from each model then instantiate the \texttt{XMLSchema}\footnote{\url{https://xmlschema.readthedocs.io/en/latest/api.html#xmlschema.XMLSchema}} class on each sample.
+We perform code coverage measurement on \texttt{python-xmlschema} by sampling 100 files from each model then instantiate the \texttt{XMLSchema}\footnote{\url{https://xmlschema.readthedocs.io/en/latest/api.html\#xmlschema.XMLSchema}} class on each sample.
 
 We found that the model tends to "ramble" after finished generating the XSD data (Figure \ref{fig:ramble}), so we extract the first valid XSD root tag from the responses as a post-processing step.
 
