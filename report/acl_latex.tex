@@ -376,6 +376,8 @@ The experimental results are shown in Table \ref{perf}. We observe a concurrent 
 
 Qualitative inspection of the generated XML files (samples can be found under Section \ref{repro} below) reveals a marked increase in structural diversity. In contrast to the zero-shot baseline, which often relied on repetitive or simplistic patterns, the LoRA-tuned model demonstrates a broader utilization of complex XSD features and schema variants, suggesting a deeper acquisition of the underlying syntax.
 
+A critical characteristic observed in the generated samples is the presence of \textit{subtle syntactic deviations}, such as unquoted attributes or omitted references, embedded within otherwise structurally coherent XML. These "imperfect" generations provide empirical support for our loose learning hypothesis above, validating the model's capacity to approximate the grammar flexibly rather than rigidly memorizing the training data.
+
 \section{Analysis and Discussion}
 
 \subsection{Perplexity as a Proxy for Structure}
